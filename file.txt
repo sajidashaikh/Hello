@@ -1,0 +1,12 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 1A2B-FC74
+
+ Directory of C:\Users\admin\Desktop\javaproject
+
+04-02-2021  12:30    <DIR>          .
+04-02-2021  12:30    <DIR>          ..
+04-02-2021  12:30                 0 file.txt
+04-02-2021  12:14               674 Hello1.class
+04-02-2021  11:42               135 Hello1.java
+               3 File(s)            809 bytes
+               2 Dir(s)  145,423,982,592 bytes free
